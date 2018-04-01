@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="richButton">
+        <item name="android:shape">oval</item>
+        <item name="android:radius">20dp</item>
+        <item name="android:background">#aa5050</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
 </resources>
